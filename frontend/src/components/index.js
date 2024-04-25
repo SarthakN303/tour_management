@@ -1,0 +1,5 @@
+export {default as Header} from "./Header/Header"
+export {default as Footer} from "./Footer/Footer"
+export {default as Testimonials} from "./Testimonial/Testimonials"
+export {default as FeaturedTourList} from "./Featured-tours/FeaturedTourList"
+export {default as MasonryImagesGallery} from "./image-gallery/MasonryImagesGallery"
